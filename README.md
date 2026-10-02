@@ -10,7 +10,7 @@ I mainly build for **Linux and Windows**, with **macOS** support when possible �
 - 🛠️ Building useful cross-platform apps for Linux / Windows (+ macOS when it makes sense)
 - 🤖 Vibecoder: AI-assisted, human-reviewed, obsessed with what actually works
 - 📚 Currently learning: Tauri, Electron alternatives, and better packaging
-- 🎯 Goals: ship tools people keep installed 🚀
+- 🎯 Goals: ship tools people keep installed 
 - 🎲 Outside code: Linux ricing, automation, and making my systems cleaner
 
 ## I code with
